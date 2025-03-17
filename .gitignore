@@ -1,0 +1,6 @@
+.bloop/
+.metals/
+.vscode/
+out/*
+mill.bat
+mill
